@@ -5,4 +5,3 @@ this commit done through github remote repo
 
 git add
 git commit 
-git push
